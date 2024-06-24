@@ -4,8 +4,6 @@ project(pugixml
         LANGUAGES CXX
        )
 
-version 1.13
-
 # Руководство по CMake для разработчиков C++ библиотек - https://habr.com/ru/articles/683204/
 # https://github.com/pananton/cpp-lib-template/blob/main/CMakeLists.txt
 
